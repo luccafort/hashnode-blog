@@ -9,6 +9,10 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/2JIvboGLeho/up
 
 Do you know Go Conference?
 
+[https://gocon.jp/2023/](https://gocon.jp/2023/)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680606562934/94d3bb60-bf32-431c-be82-7b46c454e164.png align="center")
+
 Go Conference is one of the biggest Golang conferences in Japan.
 
 Then I work as Ruby and Go developer, I enjoy to join this conference.  
